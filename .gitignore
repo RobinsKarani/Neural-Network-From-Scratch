@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.so
 .Python
+.venv/
 venv/
 env/
 *.egg-info/
@@ -31,3 +32,4 @@ Thumbs.db
 # Models
 *.pkl
 *.h5
+
